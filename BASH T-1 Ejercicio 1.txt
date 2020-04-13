@@ -1,0 +1,13 @@
+echo "Guardando archivo.."  
+sleep 3
+echo "Guarde el código: 9081
+mkdir files 
+cd /home/kali/Desktoq/files 
+nano archivo.txt 
+echo "..." 
+sleep 3 
+echo "........"  
+sleep 
+echo "..................."
+
+#Ejercicio: Busca  los 3 errores y comprueba si funciona.
